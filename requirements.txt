@@ -1,6 +1,8 @@
 # MIT license dependencies
 pyotp
 cachetools
+# For removal of output cells in Jyputer notebooks
+nbstripout 
 
 # MIT license, used only for Python < 3.7
 pyyaml
